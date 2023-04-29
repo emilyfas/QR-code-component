@@ -1,0 +1,43 @@
+body{
+  background-color: hsl(212, 45%, 89%);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  height: 100vh;
+}
+#container{
+  background-color: hsl(0, 0%, 100%);
+  width: 335px;
+  height: 500px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+  font-family: 'Outfit', sans-serif;
+  text-align: center;
+  color: hsl(220, 15%, 55%);
+  border-radius: 20px;
+}
+#container b {
+  font-size: 22px;
+  color: hsl(218, 44%, 22%);
+}
+#texto{
+  width: 250px;
+  margin: 0px;
+  margin-bottom: 15px;
+}
+#qrcodeContainer{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-wrap: wrap;
+}
+#qrcodeContainer img{
+  margin-top: 15px;
+  border-radius: 10px;
+}
+.attribution{
+  width: 100vw;
+}
