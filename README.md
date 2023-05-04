@@ -22,7 +22,7 @@ QR code component construido com HTML e CSS, projeto proposto pelo Front-End Men
 
 ### Link
 
-- Live Site URL: [https://emilyfas.github.io/QR-code-component/]
+- Live Site URL: https://emilyfas.github.io/QR-code-component/
 
 ## Meu processo
 
